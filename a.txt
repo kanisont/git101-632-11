@@ -1,6 +1,1 @@
-#include <stdio>
-
-int main()
-{
-    printf("Hello git\n")
-}
+hello gi from 0cef0b8
